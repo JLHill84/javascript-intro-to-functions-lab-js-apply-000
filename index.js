@@ -9,3 +9,7 @@ function whisper(String) {
 function logShout(String) {
   console.log(String.toUpperCase())
 }
+
+function logWhisper(salty) {
+  console.log(salty.toLowerCase()
+}
