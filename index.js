@@ -11,5 +11,5 @@ function logShout(String) {
 }
 
 function logWhisper(salty) {
-  console.log(salty.toLowerCase()
+  console.log(salty.toLowerCase())
 }
